@@ -1,5 +1,14 @@
-swc_sfu
-=======
+boot-camps
+==========
+![SWC logo](http://software-carpentry.org/img/software-carpentry-banner.png)
+
+Welcome!
+
+# Simon Fraser University - June 6-7, 2013
+Software Carpentry boot camp material
+for the June 6-7, 2013 boot camp at the Simon Fraser University.
+
+
 
 This is the git repository hosted on Github for the SFU Software Carpentry bootcamp, held from June 6 2013 to June 7 2013. 
 
@@ -30,3 +39,7 @@ This is the git repository hosted on Github for the SFU Software Carpentry bootc
 | 1:00 - 3:00   |  Data exploration and visualization  |
 | 3:00 - 3:15   |  Coffee                              |
 | 3:15 - 3:30 	|  Wrap-up and feedback                |
+
+
+For a schedule and installation instructions check out the bootcamp webpage at
+http://swcarpentry.github.com/boot-camps/2013-01-12-chicago.
