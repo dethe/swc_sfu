@@ -42,4 +42,4 @@ This is the git repository hosted on Github for the SFU Software Carpentry bootc
 
 
 For a schedule and installation instructions check out the bootcamp webpage at
-http://swcarpentry.github.com/boot-camps/2013-01-12-chicago.
+http://swcarpentry.github.com/boot-camps/2013-06-sfu.
