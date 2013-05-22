@@ -10,8 +10,6 @@ for the June 6-7, 2013 boot camp at the Simon Fraser University.
 
 
 
-This is the git repository hosted on Github for the SFU Software Carpentry bootcamp, held from June 6 2013 to June 7 2013. 
-
 ## Schedule
 ### Thursday
 | Time          |  Activity                            |
