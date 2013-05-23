@@ -1,0 +1,8 @@
+safe: true
+lsi: false
+pygments: true
+baseurl: /boot-camps
+swc_main: http://software-carpentry.org
+swc_github: http://swcarpentry.github.com
+permalink: /:year-:month-:day-:title.html
+markdown: redcarpet
